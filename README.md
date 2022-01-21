@@ -11,5 +11,5 @@ Skills: JS / HTML / CSS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GiselyKC&theme=panda)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=GiselyKC&show_icons=true&theme=panda)  
+[<img src='https://github-readme-stats.vercel.app/api?username=GiselyKC&show_icons=true&theme=panda' alt='github' height='180'>](https://github.com/GiselyKC)  
 
